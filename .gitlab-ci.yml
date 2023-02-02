@@ -1,3 +1,4 @@
+#CI Pipeline
 stages:
   - sonar-scan
   - docker-vulnerability-scan
